@@ -5,12 +5,13 @@ I'm a **technology-focused MIS student and developer** with a strong interest in
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** Python, JavaScript, SQL
-- **Web:** HTML, CSS
-- **Backend & Systems:** REST APIs, microservices, message queues
-- **Data & Analytics:** Pandas, NumPy, scikit-learn, Power BI
-- **Tools:** Git, GitHub, Docker (learning), Linux
-- **Databases:** PostgreSQL, SQLite, Oracle
+
+- **Languages:** Python, JavaScript / TypeScript, Rust, SQL, HTML, CSS
+- **Backend & APIs:** FastAPI, Flask, Express; Streamlit (data apps); OpenAPI / Swagger
+- **Frontend & UI:** React (Vite), Next.js, Expo / React Native, Pygame; static HTML/CSS/JS; Tailwind CSS
+- **Data, ML & Analytics:** pandas, NumPy, scikit-learn, statsmodels; matplotlib, seaborn, plotly; Power BI; Jupyter
+- **Databases & Data Modeling:** PostgreSQL, SQLite; SQL schema design; Prisma; SQLAlchemy
+- **Infrastructure & Security:** Docker & Docker Compose; RabbitMQ (pika); authentication & cryptography (JWT, bcrypt, Web Crypto — AES-GCM / PBKDF2, libsodium — Argon2id)
 
 ---
 
