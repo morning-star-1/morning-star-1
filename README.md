@@ -1,5 +1,4 @@
 ## Hi, I'm Tristan 👋
-🌐 **Portfolio:** https://portfolio-tristan.com/
 
 I'm a **technology-focused MIS student and developer** with a strong interest in **data-driven systems, backend development, and applied analytics**. I enjoy building projects that connect business insight with clean, practical code.
 
@@ -57,6 +56,7 @@ Some projects I’ve been working on recently:
 ---
 
 ### 📫 How to Reach Me
+- 🌐 Portfolio: https://portfolio-tristan.com/
 - GitHub: [@morning-star-1](https://github.com/morning-star-1)
 
 ---
