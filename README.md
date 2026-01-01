@@ -56,7 +56,7 @@ Some projects I’ve been working on recently:
 ---
 
 ### 📫 How to Reach Me
-- 🌐 Portfolio: https://portfolio-tristan.com/
+- Portfolio: https://portfolio-tristan.com/
 - GitHub: [@morning-star-1](https://github.com/morning-star-1)
 
 ---
