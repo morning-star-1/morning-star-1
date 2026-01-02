@@ -59,7 +59,8 @@ Some projects I’ve been working on recently:
 ### 📫 How to Reach Me
 - Portfolio: https://portfolio-tristan.com/
 - GitHub: [@morning-star-1](https://github.com/morning-star-1)
-
+- LinkedIn: https://www.linkedin.com/in/tristan-sewsunker/
+  
 ---
 
 ⚡ **Fun fact:** I enjoy combining analytical thinking with creative problem solving—whether that’s in code or photography.
